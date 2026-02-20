@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 200px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(114, 102, 138, 0.74);
+    color: white;
+}
+
+#count {
+    font-size: 48px;
+    margin: 20px 0;
+}
+h1 {
+    color: rgb(5, 28, 71);
+}
+button {
+    font-size: 24px;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(5, 28, 71);
+    color: wheat;
+}
